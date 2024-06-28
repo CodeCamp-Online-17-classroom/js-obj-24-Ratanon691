@@ -6,3 +6,4 @@
 - มี property ชื่อ amount, price และ discountให้สร้าง object ชื่อ beverage จาก Beverage โดย
 - name = “Pepsi”, amount = 3, price = 19 และ discount 10% (0.1)
 - ให้ beverage เรียก method calcPrice() และแสดงผลของ calcPrice() ที่ได้
+  Rattanon Tunwittaya
